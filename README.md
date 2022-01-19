@@ -1,0 +1,2 @@
+# LangDevice
+Firmware for LangDevice.
